@@ -1,0 +1,16 @@
+/*styles for project four*/
+body{
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%;
+    font-family: eurostile, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+h1{
+    color:thistle;
+  }
+
+img{
+    max-width: 100%
+   }
