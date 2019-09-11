@@ -1,0 +1,17 @@
+/*styles for project four*/
+body{
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%;
+    font-family: futura, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    }
+h1{
+    color:darkgoldenrod;
+  }
+
+img{
+    max-width: 100%
+   }
